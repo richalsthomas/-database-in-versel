@@ -10,7 +10,7 @@ export default function Home() {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "Bearer 123456w",
+        Authorization: "Bearer 123456",
       },
     });
   };
